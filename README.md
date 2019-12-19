@@ -9,3 +9,5 @@ Usage: python3 nbitBranchPredictor.py
 
 Hybrid.py is a functional simulation of tournament branch predictor
 Usage: python3 hybrid.py
+
+The trace file is in branch-trace-gcc.zip
